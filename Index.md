@@ -1,0 +1,82 @@
+## Index of source code examples
+
+
+\Add Barcode to PDF
+\Add To Image
+\Add To Multi TIFF
+\Add To New PDF
+\AddChecksum
+\AddChecksumToCaption
+\AddCustomImagesToPdfDocument
+\AdditionalCaption
+\Angle
+\Aztec (2D)
+\Aztec With Binary Data
+\BarHeight
+\Bookland
+\ChangeColor
+\CodaBar
+\Code128
+\Code39
+\Code93
+\CustomCaption
+\DataMatrix (2D)
+\DataMatrix With Binary Data
+\Deutsche Post Identcode
+\Deutsche Post Leitcode
+\DisplayBarcodeOnForm
+\DrawCaption
+\Dutch Kix
+\EAN128
+\EAN13
+\EAN8
+\Fit Into
+\General Example
+\Generate Barcode from Service
+\Generate Barcodes from Database
+\Generate Barcodes from Excel
+\Generate vCard QR Code
+\GenerateWordDocumentWithBarcodes
+\GS1 Datamatrix
+\I2of5
+\ISBN
+\JAN13
+\Macro PDF 417 (multiple)
+\Margins
+\MaxiCode
+\MaxiCode Mode 2-3 (Postal)
+\MSI
+\Multiple Barcode Generation
+\NarrowBarWidth
+\Numly
+\Optical Product
+\OptionsCodabar
+\OptionsCode128
+\PDF417 (2D)
+\PDF417 With Binary Data
+\PDF417Truncated (2D)
+\Planet
+\Plessey
+\Postnet
+\Print barcode
+\Print Labels
+\PZN
+\QR Code (2D)
+\QR Code With Binary Data
+\QR Code With Image
+\RenderingOptions
+\Royal Mail
+\Singapore Postal Code
+\Swiss Post Parcel
+\Unicode
+\UPCA
+\UPCE
+\USPS Sack Label
+\USPS Tray Label
+\WideToNarrowRatio
+\WinForms Control
+\_Web API
+\Generate Barcode from Service\ServiceController
+\Generate Barcode from Service\WindowsService1
+\MaxiCode Mode 2-3 (Postal)\PostalMaxiCode
+\_Web API\Generate Barcode
