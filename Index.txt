@@ -8,33 +8,31 @@
 \AddChecksumToCaption
 \AddCustomImagesToPdfDocument
 \AdditionalCaption
-\Angle
-\Aztec (2D)
-\Aztec With Binary Data
-\BarHeight
-\Bookland
-\ChangeColor
-\CodaBar
-\Code128
-\Code39
-\Code93
-\CustomCaption
-\DataMatrix (2D)
+\Aztec (2D) barcode
+\Aztec barcode With Binary Data
+\Bookland barcode
+\Change barcode color
+\CodaBar barcode
+\Code 128 barcode
+\Code 39 barcode
+\Code 93 barcode
+\DataMatrix (2D) barcode
 \DataMatrix With Binary Data
-\Deutsche Post Identcode
-\Deutsche Post Leitcode
+\Deutsche Post Identcode barcode
+\Deutsche Post Leitcode barcode
 \DisplayBarcodeOnForm
 \DrawCaption
 \Dutch Kix
 \EAN128
 \EAN13
 \EAN8
-\Fit Into
-\General Example
+\Fit Into given size
+\generate barcode
 \Generate Barcode from Service
 \Generate Barcodes from Database
 \Generate Barcodes from Excel
 \Generate PharmaCode
+\Generate QR Code With Binary Data
 \Generate vCard QR Code
 \GenerateWordDocumentWithBarcodes
 \GS1 Datamatrix
@@ -63,23 +61,23 @@
 \Print Labels
 \PZN
 \QR Code (2D)
-\QR Code With Binary Data
 \QR Code With CalenderEntry
 \QR Code With Image
 \QR Code With JSON
 \RenderingOptions
 \Royal Mail
+\Set Angle
+\Set barcode height
+\set Custom caption
+\Set Unicode text in barcode
 \Singapore Postal Code
 \Swiss Post Parcel
-\Unicode
 \UPCA
 \UPCE
 \USPS Sack Label
 \USPS Tray Label
 \WideToNarrowRatio
-\WinForms Control
-\_Web API
+\WinForms barcode Control
 \Generate Barcode from Service\ServiceController
 \Generate Barcode from Service\WindowsService1
 \MaxiCode Mode 2-3 (Postal)\PostalMaxiCode
-\_Web API\Generate Barcode
