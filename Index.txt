@@ -1,83 +1,83 @@
 ## Index of source code examples:
 
 \Add Barcode to PDF
+\Add Checksum
+\Add Checksum To Caption
+\Add Custom Images To PDF Document
 \Add To Image
 \Add To Multi TIFF
 \Add To New PDF
-\AddChecksum
-\AddChecksumToCaption
-\AddCustomImagesToPdfDocument
-\AdditionalCaption
-\Aztec (2D) barcode
-\Aztec barcode With Binary Data
-\Bookland barcode
-\Change barcode color
-\CodaBar barcode
-\Code 128 barcode
-\Code 39 barcode
-\Code 93 barcode
-\DataMatrix (2D) barcode
+\Additional Caption
+\Aztec (2D) Barcode
+\Aztec Barcode With Binary Data
+\Bookland Barcode
+\Change Barcode Color
+\Codabar Barcode
+\Code 128 Barcode
+\Code 39 Barcode
+\Code 93 Barcode
+\DataMatrix (2D) Barcode
 \DataMatrix With Binary Data
-\Deutsche Post Identcode barcode
-\Deutsche Post Leitcode barcode
-\DisplayBarcodeOnForm
-\DrawCaption
+\Deutsche Post Identcode Barcode
+\Deutsche Post Leitcode Barcode
+\Display Barcode On Form
+\Draw Caption
 \Dutch Kix
-\EAN128
-\EAN13
-\EAN8
-\Fit Into given size
-\generate barcode
+\EAN-128
+\EAN-13
+\EAN-8
+\Fit Into Given Size
+\Generate Barcode
 \Generate Barcode from Service
 \Generate Barcodes from Database
 \Generate Barcodes from Excel
 \Generate PharmaCode
 \Generate QR Code With Binary Data
 \Generate vCard QR Code
-\GenerateWordDocumentWithBarcodes
+\Generate Word Document With Barcodes
 \GS1 Datamatrix
 \GS1 QR Code
-\I2of5
-\ISBN
-\JAN13
-\Macro PDF 417 (multiple)
+\Interleaved 2 of 5 Barcode
+\ISBN Barcode
+\JAN-13 Barcode
+\Macro PDF417 (multiple)
 \Margins
 \MaxiCode
 \MaxiCode Mode 2-3 (Postal)
-\MSI
+\MSI Barcode
 \Multiple Barcode Generation
-\NarrowBarWidth
+\Narrow Bar Width
 \Numly
 \Optical Product
-\OptionsCodabar
-\OptionsCode128
+\Options Codabar
+\Options Code128
 \PDF417 (2D)
+\PDF417 Truncated (2D)
 \PDF417 With Binary Data
-\PDF417Truncated (2D)
 \Planet
 \Plessey
 \Postnet
-\Print barcode
+\Print Barcode
 \Print Labels
 \PZN
 \QR Code (2D)
 \QR Code With CalenderEntry
 \QR Code With Image
 \QR Code With JSON
-\RenderingOptions
+\Rendering Options
 \Royal Mail
 \Set Angle
-\Set barcode height
-\set Custom caption
-\Set Unicode text in barcode
+\Set Barcode Height
+\Set Custom Caption
+\Set Unicode Text in Barcode
+\Set Wide To Narrow Ratio
 \Singapore Postal Code
 \Swiss Post Parcel
 \UPCA
 \UPCE
 \USPS Sack Label
 \USPS Tray Label
-\WideToNarrowRatio
-\WinForms barcode Control
+\WinForms Barcode Control
 \Generate Barcode from Service\ServiceController
 \Generate Barcode from Service\WindowsService1
 \MaxiCode Mode 2-3 (Postal)\PostalMaxiCode
