@@ -79,5 +79,5 @@
 \USPS Tray Label
 \WinForms Barcode Control
 \Generate Barcode from Service\ServiceController
-\Generate Barcode from Service\WindowsService1
+\Generate Barcode from Service\WindowsService
 \MaxiCode Mode 2-3 (Postal)\PostalMaxiCode
