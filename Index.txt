@@ -37,6 +37,7 @@
 \Generate vCard QR Code
 \Generate Word Document With Barcodes
 \GS1 Datamatrix
+\GS1 Datamatrix barcode with multiline captions
 \GS1 QR Code
 \Interleaved 2 of 5 Barcode
 \ISBN Barcode
