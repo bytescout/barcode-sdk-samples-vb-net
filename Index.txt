@@ -64,8 +64,13 @@
 \PZN
 \QR Code (2D)
 \QR Code With CalenderEntry
+\QR Code With Email
 \QR Code With Image
 \QR Code With JSON
+\QR Code With Message
+\QR Code With Sms Message
+\QR Code With vCard
+\QR Code with Website Url
 \Rendering Options
 \Royal Mail
 \Set Angle
