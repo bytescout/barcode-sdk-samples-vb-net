@@ -47,6 +47,7 @@
 \MaxiCode
 \MaxiCode Mode 2-3 (Postal)
 \MSI Barcode
+\Multiline Barcode Caption
 \Multiple Barcode Generation
 \Narrow Bar Width
 \Numly
