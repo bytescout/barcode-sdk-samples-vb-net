@@ -81,6 +81,7 @@
 \Set Unicode Text in Barcode
 \Set Wide To Narrow Ratio
 \Singapore Postal Code
+\Store Large Data with Macro PDF417 Barcode
 \Swiss Post Parcel
 \UPCA
 \UPCE
