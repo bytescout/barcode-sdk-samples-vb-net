@@ -64,6 +64,7 @@
 \Postnet
 \Print Barcode
 \Print Labels
+\Print Multiple Barcodes
 \PZN
 \QR Code (2D)
 \QR Code With CalenderEntry
